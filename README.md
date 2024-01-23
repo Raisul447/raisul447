@@ -3,7 +3,7 @@
 <h3 align="center">I'm Professional Website Developer on WordPress.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.greengeeks.com/tutorials/wp-content/uploads/2017/09/giphy.gif">
 
-- 🔭 I’m currently working on [Jr. Wordpress Developer](https://tropionstudio.com)
+- 🔭 I’m currently working on [Wordpress Developer](https://codezok.com)
 
 - 🌱 I’m currently learning **PHP, Java Script, React**
 
