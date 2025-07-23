@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **WordPress projects, eCommerce, and Web server configuration**
 
-- 📫 How to reach me **debug@shagor.dev**
+- 📫 How to reach me **deploy@shagor.dev**
 
 - ⚡ Fun fact **Currently dating: localhost. It’s stable :xd**
 
