@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Website Development — focusing on Laravel, React, and Node.js**
 
-- 👨‍💻 All of my projects are available at **https://shagor.dev/**
+- 👨‍💻 All of my projects are available at **[https://raisul.dev/](https://raisul.dev/projects)**
 
 - 💬 Ask me about **WordPress projects, eCommerce, and Web server configuration**
 
-- 📫 How to reach me **deploy@shagor.dev**
+- 📫 How to reach me **deploy@raisul.dev**
 
 - ⚡ Fun fact **Currently dating: localhost. It’s stable :xd**
 
